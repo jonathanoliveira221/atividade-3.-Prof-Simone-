@@ -1,0 +1,4 @@
+  casa
+carro
+bicicleta  
+avião
